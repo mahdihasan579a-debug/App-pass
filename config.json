@@ -1,0 +1,14 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "background_color": "#FF6F00",
+    "message": "Maintenance in progress."
+  },
+  "credentials": [
+    {
+      "username": "MAHDI",
+      "password": "123456",
+      "expire_date": "2026-12-31"
+    }
+  ]
+}
