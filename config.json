@@ -1,0 +1,9 @@
+{
+  "username": "MAHDI",
+  "password": "123456",
+  "status": "active",
+  "expiry": "2026-12-31",
+  "success_message": "LOGIN SUCCESSFUL",
+  "invalid_message": "INVALID USERNAME OR PASSWORD",
+  "expired_message": "ACCOUNT EXPIRED"
+}
